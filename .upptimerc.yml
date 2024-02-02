@@ -29,6 +29,7 @@ status-website:
   cname: status2.grigora.co
   # baseUrl: /your-repo-name
   logoUrl: https://www.grigora.co/fav-icon/apple-touch-icon.png
+  favicon: https://www.grigora.co/fav-icon/apple-touch-icon.png
   name: Grigora System Status
   introTitle: "Check if anything is down."
   navbar:
