@@ -9,8 +9,16 @@ sites:
     url: https://api.grigora.co
   - name: Hosted Websites
     url: https://test.grigora.app
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
   - name: CDN
     url: https://cdn.grigora.co
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
   - name: Support System
     url: https://support.grigora.co
     
