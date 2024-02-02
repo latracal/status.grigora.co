@@ -4,9 +4,9 @@ repo: status.grigora.co # The name of this repository
 
 sites:
   - name: Dashboard
-    url: https://build.grigora.com
+    url: https://build.grigora.co
   - name: API
-    url: https://api.grigora.com
+    url: https://api.grigora.co
   - name: Hosted Websites
     url: https://test.grigora.app
   - name: CDN
