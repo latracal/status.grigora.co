@@ -1,7 +1,7 @@
 url: https://api.grigora.co
-status: up
-code: 200
-responseTime: 4550
-lastUpdated: 2024-02-05T23:17:35.072Z
+status: down
+code: 500
+responseTime: 872
+lastUpdated: 2024-02-06T23:15:15.495Z
 startTime: 2024-02-02T14:03:22.775Z
 generator: Upptime <https://github.com/upptime/upptime>
