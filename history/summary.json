@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 938,
-    "timeDay": 869,
-    "timeWeek": 945,
-    "timeMonth": 936,
-    "timeYear": 938,
+    "time": 936,
+    "timeDay": 871,
+    "timeWeek": 944,
+    "timeMonth": 935,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2024-02-02": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3021,
-    "timeDay": 4105,
-    "timeWeek": 2278,
-    "timeMonth": 3261,
-    "timeYear": 3021,
+    "time": 3052,
+    "timeDay": 4162,
+    "timeWeek": 2775,
+    "timeMonth": 3237,
+    "timeYear": 3052,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.grigora.app.ico",
     "slug": "hosted-websites",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1800,
-    "timeDay": 1683,
-    "timeWeek": 1646,
+    "uptimeYear": "99.97%",
+    "time": 1796,
+    "timeDay": 1650,
+    "timeWeek": 1855,
     "timeMonth": 1774,
-    "timeYear": 1800,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.grigora.co.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 911,
-    "timeDay": 824,
-    "timeWeek": 917,
+    "uptimeYear": "99.97%",
+    "time": 909,
+    "timeDay": 840,
+    "timeWeek": 911,
     "timeMonth": 912,
-    "timeYear": 911,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1951,
-    "timeDay": 304,
-    "timeWeek": 435,
-    "timeMonth": 2294,
-    "timeYear": 1951,
+    "time": 1913,
+    "timeDay": 584,
+    "timeWeek": 481,
+    "timeMonth": 2243,
+    "timeYear": 1913,
     "dailyMinutesDown": {}
   }
 ]
