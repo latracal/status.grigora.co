@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 947,
-    "timeDay": 902,
-    "timeWeek": 955,
+    "time": 948,
+    "timeDay": 995,
+    "timeWeek": 960,
     "timeMonth": 960,
-    "timeYear": 947,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2024-02-02": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3273,
-    "timeDay": 4704,
-    "timeWeek": 3440,
-    "timeMonth": 3714,
-    "timeYear": 3273,
+    "time": 3294,
+    "timeDay": 4859,
+    "timeWeek": 3613,
+    "timeMonth": 3843,
+    "timeYear": 3294,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.grigora.app.ico",
     "slug": "hosted-websites",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1852,
-    "timeDay": 2045,
-    "timeWeek": 1969,
-    "timeMonth": 1931,
-    "timeYear": 1852,
+    "uptimeYear": "99.99%",
+    "time": 1854,
+    "timeDay": 1980,
+    "timeWeek": 1994,
+    "timeMonth": 1932,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.grigora.co.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 924,
-    "timeDay": 940,
-    "timeWeek": 943,
-    "timeMonth": 946,
-    "timeYear": 924,
+    "uptimeYear": "99.99%",
+    "time": 926,
+    "timeDay": 1014,
+    "timeWeek": 958,
+    "timeMonth": 947,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1562,
-    "timeDay": 570,
-    "timeWeek": 960,
-    "timeMonth": 1374,
-    "timeYear": 1562,
+    "time": 1550,
+    "timeDay": 590,
+    "timeWeek": 952,
+    "timeMonth": 1380,
+    "timeYear": 1550,
     "dailyMinutesDown": {}
   }
 ]
