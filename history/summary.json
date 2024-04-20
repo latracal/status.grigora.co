@@ -82,19 +82,19 @@
     "url": "https://support.grigora.co",
     "icon": "https://icons.duckduckgo.com/ip3/support.grigora.co.ico",
     "slug": "support-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1509,
-    "timeDay": 2236,
-    "timeWeek": 1060,
-    "timeMonth": 1402,
-    "timeYear": 1509,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1541,
+    "timeDay": 3224,
+    "timeWeek": 1454,
+    "timeMonth": 1487,
+    "timeYear": 1541,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 13
     }
   }
 ]
