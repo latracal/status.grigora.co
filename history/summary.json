@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/build.grigora.co.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 944,
-    "timeDay": 929,
-    "timeWeek": 1079,
-    "timeMonth": 964,
+    "timeDay": 911,
+    "timeWeek": 1076,
+    "timeMonth": 963,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2024-02-02": 34
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3201,
-    "timeDay": 4821,
-    "timeWeek": 3557,
-    "timeMonth": 2633,
-    "timeYear": 3201,
+    "time": 3211,
+    "timeDay": 4845,
+    "timeWeek": 3613,
+    "timeMonth": 2647,
+    "timeYear": 3211,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1832,
-    "timeDay": 1906,
-    "timeWeek": 1823,
-    "timeMonth": 1832,
-    "timeYear": 1832,
+    "time": 1831,
+    "timeDay": 1739,
+    "timeWeek": 1813,
+    "timeMonth": 1824,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 919,
-    "timeDay": 906,
-    "timeWeek": 880,
-    "timeMonth": 899,
+    "timeDay": 863,
+    "timeWeek": 879,
+    "timeMonth": 895,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2024-02-02": 15
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 542,
-    "timeWeek": 981,
-    "timeMonth": 852,
-    "timeYear": 1198,
+    "time": 1194,
+    "timeDay": 586,
+    "timeWeek": 999,
+    "timeMonth": 854,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
   }
 ]
