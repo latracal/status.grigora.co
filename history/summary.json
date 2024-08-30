@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 344,
-    "timeWeek": 357,
-    "timeMonth": 363,
-    "timeYear": 831,
+    "time": 828,
+    "timeDay": 312,
+    "timeWeek": 354,
+    "timeMonth": 364,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2024-02-02": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3472,
-    "timeDay": 4327,
-    "timeWeek": 4428,
-    "timeMonth": 4303,
-    "timeYear": 3472,
+    "time": 3459,
+    "timeDay": 727,
+    "timeWeek": 3928,
+    "timeMonth": 4301,
+    "timeYear": 3459,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1843,
-    "timeDay": 1742,
-    "timeWeek": 1848,
-    "timeMonth": 1887,
-    "timeYear": 1843,
+    "time": 1842,
+    "timeDay": 1729,
+    "timeWeek": 1845,
+    "timeMonth": 1885,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -63,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.grigora.co.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 919,
-    "timeDay": 844,
-    "timeWeek": 900,
-    "timeMonth": 931,
+    "timeDay": 838,
+    "timeWeek": 901,
+    "timeMonth": 930,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2024-02-02": 15
@@ -88,11 +88,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1249,
-    "timeDay": 480,
+    "time": 1245,
+    "timeDay": 481,
     "timeWeek": 1431,
-    "timeMonth": 1718,
-    "timeYear": 1249,
+    "timeMonth": 1724,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2024-08-23": 23
     }
