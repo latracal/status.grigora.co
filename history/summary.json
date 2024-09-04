@@ -24,18 +24,20 @@
     "url": "https://api.grigora.co",
     "icon": "https://icons.duckduckgo.com/ip3/api.grigora.co.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3470,
-    "timeDay": 5221,
-    "timeWeek": 3538,
-    "timeMonth": 4148,
-    "timeYear": 3470,
-    "dailyMinutesDown": {}
+    "time": 3460,
+    "timeDay": 3191,
+    "timeWeek": 3241,
+    "timeMonth": 4051,
+    "timeYear": 3460,
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Hosted Websites",
@@ -90,7 +92,7 @@
     "uptimeYear": "99.99%",
     "time": 1230,
     "timeDay": 591,
-    "timeWeek": 525,
+    "timeWeek": 546,
     "timeMonth": 1725,
     "timeYear": 1230,
     "dailyMinutesDown": {
