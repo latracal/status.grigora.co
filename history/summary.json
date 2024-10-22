@@ -6,17 +6,16 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 688,
-    "timeDay": 185,
-    "timeWeek": 100,
-    "timeMonth": 109,
-    "timeYear": 688,
+    "time": 686,
+    "timeDay": 171,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-10-21": 14,
       "2024-02-02": 34
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3547,
-    "timeDay": 4865,
-    "timeWeek": 4093,
-    "timeMonth": 3992,
-    "timeYear": 3547,
+    "time": 3550,
+    "timeDay": 4383,
+    "timeWeek": 4049,
+    "timeMonth": 3991,
+    "timeYear": 3550,
     "dailyMinutesDown": {
       "2024-09-04": 42
     }
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1839,
-    "timeDay": 2033,
-    "timeWeek": 1865,
-    "timeMonth": 1811,
-    "timeYear": 1839,
+    "time": 1840,
+    "timeDay": 2113,
+    "timeWeek": 1906,
+    "timeMonth": 1824,
+    "timeYear": 1840,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 918,
-    "timeDay": 1026,
-    "timeWeek": 940,
-    "timeMonth": 901,
+    "timeDay": 1091,
+    "timeWeek": 968,
+    "timeMonth": 909,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2024-02-02": 15
@@ -91,11 +90,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
-    "time": 1256,
-    "timeDay": 4584,
-    "timeWeek": 1899,
-    "timeMonth": 1298,
-    "timeYear": 1256,
+    "time": 1274,
+    "timeDay": 6137,
+    "timeWeek": 2596,
+    "timeMonth": 1339,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2024-10-20": 73,
       "2024-08-23": 23
