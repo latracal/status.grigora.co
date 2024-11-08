@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 659,
-    "timeDay": 176,
-    "timeWeek": 201,
+    "time": 657,
+    "timeDay": 173,
+    "timeWeek": 189,
     "timeMonth": 154,
-    "timeYear": 659,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2024-02-02": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3575,
-    "timeDay": 4774,
-    "timeWeek": 4108,
-    "timeMonth": 4180,
-    "timeYear": 3575,
+    "time": 3579,
+    "timeDay": 4571,
+    "timeWeek": 4122,
+    "timeMonth": 4170,
+    "timeYear": 3579,
     "dailyMinutesDown": {
       "2024-09-04": 42
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1841,
-    "timeDay": 2092,
-    "timeWeek": 1910,
-    "timeMonth": 1862,
+    "timeDay": 1695,
+    "timeWeek": 1900,
+    "timeMonth": 1849,
     "timeYear": 1841,
     "dailyMinutesDown": {
       "2024-02-02": 15
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 1012,
-    "timeWeek": 973,
-    "timeMonth": 945,
-    "timeYear": 920,
+    "time": 919,
+    "timeDay": 858,
+    "timeWeek": 962,
+    "timeMonth": 937,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2024-02-02": 15
     }
@@ -86,17 +86,16 @@
     "slug": "support-system",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 1485,
-    "timeDay": 3668,
-    "timeWeek": 4484,
-    "timeMonth": 3217,
-    "timeYear": 1485,
+    "time": 1497,
+    "timeDay": 3494,
+    "timeWeek": 4490,
+    "timeMonth": 3342,
+    "timeYear": 1497,
     "dailyMinutesDown": {
-      "2024-11-07": 14,
       "2024-10-25": 21,
       "2024-10-20": 73,
       "2024-08-23": 23
