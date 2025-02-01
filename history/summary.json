@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 540,
-    "timeDay": 170,
-    "timeWeek": 193,
+    "time": 539,
+    "timeDay": 108,
+    "timeWeek": 196,
     "timeMonth": 154,
-    "timeYear": 540,
-    "dailyMinutesDown": {
-      "2024-02-02": 34
-    }
+    "timeYear": 539,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 3157,
-    "timeDay": 753,
-    "timeWeek": 2395,
-    "timeMonth": 1359,
-    "timeYear": 3157,
+    "time": 3151,
+    "timeDay": 952,
+    "timeWeek": 1907,
+    "timeMonth": 1367,
+    "timeYear": 3151,
     "dailyMinutesDown": {
       "2024-11-16": 392,
       "2024-11-15": 557,
@@ -53,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1778,
-    "timeDay": 1413,
-    "timeWeek": 1487,
-    "timeMonth": 1403,
+    "timeDay": 1661,
+    "timeWeek": 1500,
+    "timeMonth": 1415,
     "timeYear": 1778,
-    "dailyMinutesDown": {
-      "2024-02-02": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -73,13 +69,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 715,
-    "timeWeek": 736,
-    "timeMonth": 721,
+    "timeDay": 849,
+    "timeWeek": 753,
+    "timeMonth": 726,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2024-02-02": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support System",
@@ -87,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.grigora.co.ico",
     "slug": "support-system",
     "status": "down",
-    "uptime": "78.95%",
+    "uptime": "78.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.95%",
+    "uptimeYear": "78.73%",
     "time": 1581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2025-01-31": 62,
+      "2025-02-01": 65,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
