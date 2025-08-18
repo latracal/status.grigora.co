@@ -19,8 +19,6 @@ sites:
       - 200
       - 403
       - 404
-  - name: Support System
-    url: https://support.grigora.co
     
 
 status-website:
